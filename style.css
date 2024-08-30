@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color: azure;
+    background-color: rgb(216, 253, 253);
     color: blue;
     display: flex;
     padding: 24px 0;
@@ -7,11 +7,13 @@
 
 .section1 {
     background-color: aquamarine;
+    color: blue;
     padding: 100px;
 }
 
 .section2 {
     background-color: aqua;
+    color: blue;
     padding: 100px;
 }
 
@@ -28,5 +30,7 @@
 }
 
 .rodape{
-    background-color: azure;
+    background-color: rgb(216, 253, 253);
+    color: blue;
+
 }
